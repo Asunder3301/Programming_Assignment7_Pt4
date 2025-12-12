@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trash\\source\\repos\\Programming_Assignment7\\Bautista_PA7_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{016AE0C0-9890-42E1-B869-A206C2B82D80}|Bautista_PA7_4\\Bautista_PA7_4.vcxproj|C:\\Users\\trash\\source\\repos\\Programming_Assignment7\\Bautista_PA7_4\\Bautista_PA7_4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{016AE0C0-9890-42E1-B869-A206C2B82D80}|Bautista_PA7_4\\Bautista_PA7_4.vcxproj|solutionrelative:Bautista_PA7_4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\trash\\source\\repos\\Programming_Assignment7\\Bautista_PA7_4\\Bautista_PA7_4\\Source.cpp",
+              "RelativeDocumentMoniker": "Bautista_PA7_4\\Source.cpp",
+              "ToolTip": "C:\\Users\\trash\\source\\repos\\Programming_Assignment7\\Bautista_PA7_4\\Bautista_PA7_4\\Source.cpp",
+              "RelativeToolTip": "Bautista_PA7_4\\Source.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T15:58:24.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
